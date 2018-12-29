@@ -1,0 +1,27 @@
+# My "favourite" song 
+"""
+This is a file with information not
+about my favourite song
+(as I don't actually have one),
+but definitely one of
+"""
+Title  = "Killer Queen"
+Band = "Queen"
+Author = "Freddie Mercury"
+Album = "Sheer Heart Attack"
+Duration_In_Seconds = "186"
+Genre = "Art pop"
+Date_Of_Release = "10.11.1974"
+Country_Of_Release = "Great Britain"
+Number_Of_Instruments_Used = "7 Instruments"
+Highest_Plase_In_Chartes = "Second place"
+print(Title)
+print(Band)
+print(Author)
+print(Album)
+print(Duration_In_Seconds)
+print(Genre)
+print(Date_Of_Release)
+print(Number_Of_Instruments_Used)
+print(Highest_Plase_In_Chartes)
+print(Country_Of_Release)
